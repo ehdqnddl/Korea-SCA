@@ -1,6 +1,11 @@
 # The Korea Side Channel Analysis Group
-The Korea Side Channel Analysis Group in the School of Cybersecurity at Korea University studies a variety of topics in modern cryptography and its vulnerabilities with regard to physical attacks. We are analyzing cryptographic algorithms, operating high-end experimental equipments, and proceeding projects about side channel attacks and countermeasures. We mainly interest the power consumption or the electromagnetic emission from the device to be used in practice, and theoretical improvements utilizing the state-of-the-art methods such as artificial intelligence.
+
+The Korea Side Channel Analysis Group in the School of Cybersecurity at Korea University studies a variety of topics in modern cryptography and its vulnerabilities with regard to physical attacks. We analyze cryptographic algorithms, operate high-end experimental equipments, and proceed projects about side channel attacks and countermeasures.
+
+If you are interested in and want to be familiar with the side channel analysis, please take a look at the problems uploaded.
+
 ## Contact
+
 - mailto:djpark@korea.ac.kr
 - http://crypto.korea.ac.kr
 - Office: Room no. 301, International Center for Converging Technology Building
